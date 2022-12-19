@@ -31,3 +31,7 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 * [link](https://dipeshjoshi4.hashnode.dev/html-form-methods-attributes)
 
 ![plot](https://images.unsplash.com/photo-1508317469940-e3de49ba902e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
+
+### 6.CSS Selector part-1
+
+

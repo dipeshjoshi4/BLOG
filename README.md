@@ -34,4 +34,6 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 
 ### 6.CSS Selector part-1
 
+* [link](https://dipeshjoshi4.hashnode.dev/css-selector-part-1)
+
 

@@ -37,3 +37,9 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 * [link](https://dipeshjoshi4.hashnode.dev/css-selector-part-1)
 
 ![plot](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
+
+### 6.CSS Selector part-2 (All About Pseudo Selector And Why We Use)
+
+* [link](https://dipeshjoshi4.hashnode.dev/all-about-pseudo-selector-and-why-we-use)
+
+![plot]https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)

@@ -49,3 +49,9 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 * [link](https://dipeshjoshi4.hashnode.dev/display-property)
 
 ![plot](https://images.unsplash.com/photo-1545446968-9baea3c7a4db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
+
+### 9.Understanding Cascading , Specificity and Inheritance
+
+* [link](https://dipeshjoshi4.hashnode.dev/understanding-cascading-specificity-and-inheritance)
+
+![plot](https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)

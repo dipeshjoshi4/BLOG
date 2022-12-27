@@ -56,7 +56,7 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 
 ![plot](https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 
-### 10.https://dipeshjoshi4.hashnode.dev/css-positions
+### 10.css-positions
 
 * [link](https://dipeshjoshi4.hashnode.dev/css-positions)
 

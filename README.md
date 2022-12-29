@@ -66,7 +66,7 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 
 * [link](https://dipeshjoshi4.hashnode.dev/css-float-clear)
 
-![plot](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
+![plot](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 
 ### 12.CSS Box Model
 

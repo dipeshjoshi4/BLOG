@@ -26,7 +26,7 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 
 ### 4.Audio and Video tag
 
-* [link](https://dipeshjoshi4.hashnode.dev/audio-and-video-tag)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/audio-and-video-tag)
 
 ![plot](https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60)
 

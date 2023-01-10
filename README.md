@@ -68,7 +68,7 @@ this is repo.is for the my blogs which I posted on different  platforms about di
 
 ### 11.css-Float & Clear
 
-* [link](https://dipeshjoshi4.hashnode.dev/css-float-clear)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/css-float-clear)
 
 ![plot](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)
 

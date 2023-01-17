@@ -86,4 +86,4 @@ this is Repositorie is for the  blogs which I posted on different  platforms abo
 
 ### 14.README.md GitHub
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/css-flexbox)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/readmemd-github)

@@ -92,5 +92,5 @@ this is Repositorie is for the  blogs which I posted on different  platforms abo
 
 ### 15.ALL about GIT
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/readmemd-github)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/all-about-git)
 

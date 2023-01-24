@@ -1,5 +1,5 @@
 # BLOG
-this is Repositorie is for the  blogs which I posted on different  platforms about different tech topics which I learn while my web development journey
+this is Repo. is for the  blogs which I posted on different  platforms about different tech topics which I learn while my web development journey
 
 
 

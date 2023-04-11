@@ -111,7 +111,7 @@ this is Repo. is for the  blogs which I posted on different  platforms about dif
 
 ### 18.Top 5 Best News ! stay updated with latest news with this app
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/variables-primitives-vs-non-primitive)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dipeshjoshi4.hashnode.dev/top-5-best-news-stay-updated-with-latest-news-with-this-app)
 
 ![plot](https://images.unsplash.com/photo-1646590363591-e3f1712e2c8a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80)
 
